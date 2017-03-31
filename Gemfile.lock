@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ffi (1.9.18)
-    pycall (0.1.0.alpha.20170317)
+    pycall (0.1.0.alpha.20170329)
       ffi
 
 PLATFORMS
